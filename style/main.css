@@ -1,0 +1,53 @@
+body{padding:0;margin:0;min-width:1000px;width:100%;position:absolute;font-family:arial;font-size:80%;}
+img{border:none;}
+#center_wrapper{position:relative;}
+#body_wrapper{position:relative;width:1000px;}
+#top_bg{width:650px;height:147px;background-image:url(/images/top_bg.jpg);}
+#link1{float:left;position:relative;top:120px;padding-left:48px}
+#link2{float:left;position:relative;top:120px;padding-left:35px}
+#link3{float:left;position:relative;top:120px;padding-left:30px}
+#link4{float:left;position:relative;top:120px;padding-left:30px}
+#link5{float:left;position:relative;top:120px;padding-left:30px}
+a.tmenu{color:#f01212;font-weight:normal; font-size:14px;text-decoration:none}
+a:hover.tmenu{color:#0094dd;font-weight:normal;font-size:14px;text-decoration:none}
+a.cur{color:#0094dd;font-weight:normal; font-size:14px;text-decoration:none}
+a:hover.cur{color:#0094dd;font-weight:normal;font-size:14px;text-decoration:none}
+#clear{float:none;clear:both;}
+a.l{color:#007bb8;text-decoration:none}
+a:hover.l{color:#007bb8;text-decoration:underline}
+#main_center{width:652px;height:408px;background-image:url(/images/main_center.jpg);}
+#main_left{margin-left:25px;margin-top:80px;float:left;width:138px;}
+#main_top_bg{width:967px;height:271px;background-image:url(/images/main_top_bg.jpg);}
+.bold{color:#f01212;font-weight:normal; font-size:14px;text-decoration:none}
+.h{color:#007bb8;text-decoration:none; font-weight:bold}
+
+
+#about_center{width:648px;height:409px;background-image:url(/images/about_center.jpg);}
+#help_center{width:648px;height:406px;background-image:url(/images/help_center.jpg);}
+#contact_center{width:648px;height:409px;background-image:url(/images/contact_center.jpg);}
+#products_center{width:648px;height:271px;background-image:url(/images/products_center.jpg);}
+#vending_center{width:648px;height:409px;background-image:url(/images/vending_center.jpg);}
+#textbox{width:648px;background-color:#ffeb70;}
+#container{text-align:center;width:90%;min-height:300px}
+#content{font-size:88%; text-align:left;font-family:verdana; } 
+#content_pro{font-size:100%; text-align:left;font-family:verdana; } 
+#menu_pro{font-size:100%; text-align:right;font-family:verdana;padding-top:65px } 
+#contact_text{padding:8px 0 0 3px;width:191px;height:124px;background-image:url(/images/conact_text_bg.jpg);background-repeat: no-repeat;font-size:10px}
+#title{padding-top:20px;color:#006ca1; font-size:25px;}
+#title_cont{color:#006ca1; font-size:17px;}
+#box{margin:3px;padding:10px 5px 5px 5px;border:solid 1px #e8c777}
+#box_title{margin-bottom:5px}
+#row1{float:left;width:205px;}
+#row2{float:left;width:760px;padding-left:25px}
+.in4{width:100%;border:solid 1px #960600;background-color:#f9d57f}
+#bottom_box{padding:20px;text-align:center}
+.bot{font-weight:bold;color:#312a34;width:auto;border:solid 2px #960600;background-color:#f9d57f}
+.textarea{width:100%;border:solid 1px #960600;background-color:#f9d57f}
+#line{height:3px;}
+#left{float:left;height:auto}
+#tl1{float:left;padding-left:230px}
+#tl2{float:left;padding-left:80px}
+#tl3{float:left;padding-left:140px}
+
+#footer_bg{width:650px;height:49px;background-image:url(/images/footer_bg.jpg);}
+#copy{float:left;color:#0094dd;padding-top:20px;padding-left:20px;font-size:80%;}
